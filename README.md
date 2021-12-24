@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MFaisalQasim
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Web Developing / React.js
+- 🌱 I’m currently working on Mern
+- 💞️ I’m looking to collaborate on Web Developing / Mern
 - 📫 How to reach me faisalqasim876@gmail.com
 
 <!---
