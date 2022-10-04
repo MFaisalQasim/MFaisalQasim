@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MFaisalQasim
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently working on Mern And React Native
-- 💞️ I’m looking to collaborate on Web/App Development(Mern)/(Native)  
+- 🌱 I’m currently working on Laravel, Angular And React JS
+- 💞️ I’m looking to collaborate on Web/App Development(Laravel)/(Angular/React Js)  
 - 📫 How to reach me faisalqasim876@gmail.com
 
 <!---
