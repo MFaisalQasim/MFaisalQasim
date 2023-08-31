@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MFaisalQasim
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently working on Laravel, Angular And React JS
-- 💞️ I’m looking to collaborate on Web/App Development(Laravel)/(Angular/React Js)  
+- 🌱 I’m currently working on Laravel, React JS And Django
+- 💞️ I’m looking to collaborate on Web Development(Laravel)/(Django)/(React Js)  
 - 📫 How to reach me faisalqasim876@gmail.com
 
 <!---
